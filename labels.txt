@@ -1,0 +1,8 @@
+abrasions
+bruises
+burns
+chicken_pox
+cut
+healthy
+laceration
+measles
