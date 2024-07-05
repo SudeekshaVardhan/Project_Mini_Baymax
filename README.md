@@ -43,6 +43,10 @@ The model uses a resnet18 network to process images, and was built using the Jet
 
 10. The model is complete, and now it is ready to be trained.
 
+*NOTE: It is also possible to train the model in the browser through Google CoLab. Follow the steps outlined in the colable below to train the model in the browser and copy the trained model to VS Code.
+
+https://colab.research.google.com/gist/mwagnerretro/01d68f53906542bac69c640252657274/train_model_backup.ipynb
+
 ## Running this project
 
 *Note: image_file is used to denote the test image that is downloaded to the folder that is used in the my-recognition.py file to identify the image.
